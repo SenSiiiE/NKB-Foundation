@@ -1,0 +1,36 @@
+/* Basic navbar styling */
+.navbar {
+  background-color: #f0c419; /* Shemford yellow */
+  padding: 10px 20px;
+}
+
+/* Logo and school name */
+.logo {
+  height: 50px; /* Adjust as needed */
+  margin-right: 20px;
+}
+
+.school-name {
+  font-weight: bold;
+  font-size: 1.2em; /* Adjust as needed */
+}
+
+.tm {
+  font-size: 0.8em; /* Adjust as needed */
+  vertical-align: super;
+}
+
+/* Contact info */
+.contact-info {
+  /* Style as needed */
+}
+
+/* Menu */
+.menu {
+  list-style: none;
+  display: flex; /* For horizontal alignment */
+}
+
+.menu li a {
+  /* Style links as needed */
+}
